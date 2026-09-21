@@ -1,0 +1,16 @@
+.brand-kicker {
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  font-size: 11px;
+  opacity: 0.55;
+}
+
+.preview-frame {
+  background-color: alpha(currentColor, 0.06);
+  border-radius: 12px;
+  min-height: 420px;
+}
+
+.drop-hover {
+  outline: 3px solid @accent_bg_color;
+}
