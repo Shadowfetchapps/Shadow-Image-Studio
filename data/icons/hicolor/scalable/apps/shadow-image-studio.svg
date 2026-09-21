@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Shadow Image Studio">
+  <defs>
+    <linearGradient id="bg" x1="14" y1="8" x2="114" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B1740"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#bg)"/>
+  <rect x="30" y="30" width="68" height="52" rx="8" fill="none" stroke="#67E8F9" stroke-width="5"/>
+  <rect x="42" y="42" width="28" height="20" rx="4" fill="#A78BFA"/>
+  <circle cx="80" cy="64" r="8" fill="#FDE68A"/>
+  <path d="M28 88h16M84 88h16M28 28v16M100 28v16" stroke="#5EEAD4" stroke-width="5" stroke-linecap="round"/>
+</svg>

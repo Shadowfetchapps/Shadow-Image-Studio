@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Shadow Image Studio
+GenericName=Image Editor
+Comment=Crop, resize, adjust, and export image copies
+Exec=shadow-image-studio %f
+Icon=shadow-image-studio
+Terminal=false
+Categories=Graphics;
+Keywords=image;photo;crop;resize;editor;
+StartupNotify=true
+StartupWMClass=com.shadowfetch.ImageStudio
+MimeType=image/png;image/jpeg;image/webp;image/tiff;
