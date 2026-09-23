@@ -25,7 +25,7 @@ Version: ${VERSION}
 Section: graphics
 Priority: optional
 Architecture: ${ARCH}
-Maintainer: Shadow Image Studio contributors <209457103+ShadowfetchLinux@users.noreply.github.com>
+Maintainer: Shadow Image Studio contributors <209457103+Shadowfetchapps@users.noreply.github.com>
 Depends: libgtk-4-1, libadwaita-1-0
 Installed-Size: ${SIZE}
 Homepage: https://github.com/Shadowfetchapps/Shadow-Image-Studio
