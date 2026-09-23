@@ -6,7 +6,7 @@ pub const APP_ID: &str = "com.shadowfetch.ImageStudio";
 pub const APP_NAME: &str = "Shadow Image Studio";
 pub const APP_ICON: &str = "shadow-image-studio";
 pub const APP_VERSION: &str = env!("CARGO_PKG_VERSION");
-pub const APP_WEBSITE: &str = "https://github.com/ShadowfetchLinux/Shadow-Image-Studio";
+pub const APP_WEBSITE: &str = "https://github.com/Shadowfetchapps/Shadow-Image-Studio";
 
 pub fn config_dir() -> Result<PathBuf> {
     let base = dirs::config_dir().ok_or_else(|| {

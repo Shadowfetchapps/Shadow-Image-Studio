@@ -28,7 +28,7 @@ Architecture: ${ARCH}
 Maintainer: Shadow Image Studio contributors <209457103+ShadowfetchLinux@users.noreply.github.com>
 Depends: libgtk-4-1, libadwaita-1-0
 Installed-Size: ${SIZE}
-Homepage: https://github.com/ShadowfetchLinux/Shadow-Image-Studio
+Homepage: https://github.com/Shadowfetchapps/Shadow-Image-Studio
 Description: Fast lightweight image editor for Linux
  Crop, resize, adjust, and export local image copies.
 EOF
